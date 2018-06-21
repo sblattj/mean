@@ -12,11 +12,13 @@ This application utilizes MongoDB/Expressjs/Angularjs/Nodejs and functions as a 
 
 ## Installation
 
-Clone the repo
-cd into the mean directory
+Clone the repo and cd into the root directory
 
 Run the command:
+
+```
 npm install
+```
 
 ## Config
 
@@ -28,11 +30,15 @@ Also, configure passport with your personal API keys.
 
 If you don't already have nodemon installed, run the following command:
 
+```
 npm install nodemon -g
+```
 
 then run:
 
+```
 nodemon server.js
+```
 
 ## Special Thanks To
 
